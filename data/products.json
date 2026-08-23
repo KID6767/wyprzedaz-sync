@@ -1,0 +1,36 @@
+[
+  {
+    "id": "levi-tee-001",
+    "name": "Koszulka Levi's",
+    "brand": "Levi's",
+    "category": "ubrania",
+    "size": "—",
+    "condition": "bardzo dobry",
+    "price": 30,
+    "status": "available",
+    "image": "./assets/img/product-placeholder.svg",
+    "description": "Koszulka Levi's z prywatnej wyprzedaży. Szczegółowy opis, rozmiar i zdjęcia podmienimy po wpięciu właściwej oferty.",
+    "links": {
+      "allegro": "",
+      "vinted": "",
+      "olx": ""
+    }
+  },
+  {
+    "id": "demo-002",
+    "name": "Miejsce na kolejny drop",
+    "brand": "Coming soon",
+    "category": "dodatki",
+    "size": "",
+    "condition": "—",
+    "price": 0,
+    "status": "sold",
+    "image": "./assets/img/product-placeholder-2.svg",
+    "description": "Karta demonstracyjna pokazująca, jak wygląda produkt oznaczony jako sprzedany.",
+    "links": {
+      "allegro": "",
+      "vinted": "",
+      "olx": ""
+    }
+  }
+]

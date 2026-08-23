@@ -1,0 +1,30 @@
+# Sekrety
+.env
+.env.*
+*.secret
+*.token
+secrets/
+config.local.json
+tokens.json
+
+# Lokalne backupy / eksporty
+backup/
+backups/
+*.zip
+*.bundle
+
+# System / edytory
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node (na przyszłość)
+node_modules/
+
+# Windows/local
+desktop.ini
