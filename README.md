@@ -1,0 +1,1 @@
+# wyprzedaz-sync
